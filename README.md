@@ -1,5 +1,5 @@
 # DataMan
-Welcome to Dataman: Your Fun Math Learning Assistant!
+Welcome to Dataman: Your Fun Math Learning Robot Assistant!
 
 Are you ready to level up your math skills while having fun? 
 Introducing Dataman, your new digital math buddy! ![image](https://github.com/CTS285DATAMANMCCARTHD3455JANE/DATAMAN/assets/103216388/47e2b18f-c93e-4c01-95dc-b68a2d67825e)
